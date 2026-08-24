@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: Page
 title: Produce
 category: Produce
 permalink: /Produce/
