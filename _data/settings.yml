@@ -8,10 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'About',              url: 'about'}
-- {name: 'Dispatches',  url: 'Dispatches'}
 - {name: 'Consumed', url: 'Consumed'}
+- {name: 'Produce',      url: 'Produce'}
 - {name: 'Fixations',       url: 'Fixations'}
-- {name: 'Produced',      url: 'Produced'}
+- {name: 'Dispatches',  url: 'Dispatches'}
 - {name: 'Hello',            url: 'Hello'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
