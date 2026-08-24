@@ -6,7 +6,7 @@ permalink: /Fixations/
 
 Things I am constantly thinking about.
 
-<br><br>
+<br>
 
 ## [Rocky]({{ '/Fixations/Rocky/' | relative_url }})
 
