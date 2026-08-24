@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Routine
-category: documentation
+category: Routine
 permalink: /Routine
 ---
