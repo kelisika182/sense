@@ -8,6 +8,6 @@ Yum, I love trash! Yum!
 
 <br>
 
-## [With Ears to See...]({{ '/Consumed/Earstosee.md/' | relative_url }})<br>
-## [...and Eyes to hear]({{ '/Consumed/Eyestohear.md/' | relative_url }})
+## [With Ears to See...]({{ '/Consumed/Earstosee/' | relative_url }})<br>
+## [...and Eyes to hear]({{ '/Consumed/Eyestohear/' | relative_url }})
 
