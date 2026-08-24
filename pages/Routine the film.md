@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: Routine
 category: documentation
-permalink: /documentation
+permalink: /Routine
 ---
